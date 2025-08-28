@@ -6,13 +6,11 @@ Me chamo Dony Silva Aquino, tenho 16 anos e sou natural de São Paulo, atualment
 
 <p align="left">
     <a href="https://github.com/donysvaquino?tab=repositories&sort=stargazers">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/donysvaquino?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
-    </a>
     <a href="https://github.com/donysvaquino?tab=followers">
         <img 
             alt="Seguidores" 
