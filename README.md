@@ -78,20 +78,4 @@ Me chamo Dony Silva Aquino, tenho 16 anos e sou natural de São Paulo, atualment
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=donysvaquino&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=donysvaquino&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+https://github-readme-stats.vercel.app/api?username=donysvaquino)](https://github.com/donysvaquino/github-readme-stats
