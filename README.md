@@ -66,8 +66,8 @@ Me chamo Dony Silva Aquino, tenho 16 anos e sou natural de São Paulo, atualment
 />
 <img 
     align="left" 
-    alt="PHP" 
-    title="PHP"
+    alt="Python" 
+    title="Python"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
@@ -76,6 +76,3 @@ Me chamo Dony Silva Aquino, tenho 16 anos e sou natural de São Paulo, atualment
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-https://github-readme-stats.vercel.app/api?username=donysvaquino)](https://github.com/donysvaquino/github-readme-stats
