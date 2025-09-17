@@ -68,6 +68,18 @@ Me chamo Dony Silva Aquino, tenho 16 anos e sou natural de São Paulo, atualment
 <br/>
 <br/>
 
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<br/>
+<br/>
+
 ### 📊 Estatísticas
 
 <p>
